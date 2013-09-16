@@ -1,4 +1,4 @@
-alexgerstein.github.io
+SVN Comet
 ======================
 
 The four-week team project for Software Design and Implementation (COSC 50) required each group to make its own multiplayer physics game, á la Crayon Physics, in C using GTK and the [Chipmunk physics library](http://chipmunk-physics.net/ "Chipmunk Physics"). This was the first project I developed with a team.
