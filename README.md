@@ -11,4 +11,4 @@ Feel free to download and install to play, or [watch some gameplay footage](http
 
 1. Download source to computer
 2. Run `make svn_comet` from the root directory
-3. Enter `./game`
+3. Open `./game`
